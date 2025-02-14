@@ -697,7 +697,9 @@
         <!-- start you own content here -->
         
         <div class="br-section-wrapper">
-          <h6 class="tx-gray-800 tx-uppercase tx-bold tx-14 mg-b-10">Mantenimiento</h6>
+          <h6 class="tx-gray-800 tx-uppercase tx-bold tx-14 mg-b-10">Mantenimiento de Producto</h6>
+
+          <button id="btnnuevo" class="btn btn-outline-primary btn-block mg-b-10">Nuevo Registro</button>
           
 
           <div class="table-wrapper">
